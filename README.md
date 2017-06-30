@@ -1,4 +1,4 @@
-# awesome-hubspot
+# Awesome HubSpot
 Awesome list of HubSpot tools and libraries.
 
 ## Tools
