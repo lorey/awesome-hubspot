@@ -7,6 +7,8 @@ Awesome list of HubSpot tools and libraries.
 - [lorey/hubspot-contact-import](https://github.com/lorey/hubspot-contact-import): A HubSpot import tool for vcards and Xing
 - [lorey/hubspot-reporting](https://github.com/lorey/hubspot-reporting): Generate diagrams from your hubspot data automatically
 
+- [PageUtil HubSpot Association CSV Checker](https://pageutil.com/hubspot-association-csv-checker/): Check CSV/XLSX association files for missing identifiers, references, and duplicate relationships locally before import
+
 ## Integrations
 
 ### PHP
